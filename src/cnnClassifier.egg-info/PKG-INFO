@@ -1,3 +1,12 @@
+Metadata-Version: 2.1
+Name: cnnClassifier
+Version: 0.0.0
+Summary: A small python package for CNN app
+Home-page: https://github.com/Cynthiachelangat/KidneyDiseaseClassification
+Author: Cynthiachelangat
+Author-email: cchela789@gmail.com
+Project-URL: Bug Tracker, https://github.com/Cynthiachelangat/KidneyDiseaseClassification/issues
+
 # **Kidney Disease Classification**
 
 This project aims to build a robust model to classify kidney disease stages using machine learning techniques. The project leverages various data preprocessing, feature engineering, and model evaluation methods to achieve high accuracy and provide valuable insights for early detection.
