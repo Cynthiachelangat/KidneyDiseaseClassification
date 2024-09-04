@@ -1,5 +1,6 @@
 README.md
 setup.py
+src/cnnClassifier/__init__.py
 src/cnnClassifier.egg-info/PKG-INFO
 src/cnnClassifier.egg-info/SOURCES.txt
 src/cnnClassifier.egg-info/dependency_links.txt
